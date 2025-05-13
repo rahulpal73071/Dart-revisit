@@ -1,14 +1,14 @@
-# Dart-revisit
-In this repo I have revisit with some basic concepts in dart language
-<h3>
-  Discription of the Repo
-</h3>
-<p>
-  In this repo there are some files, these files named with topic name like data_types.dart and all.
-  this repo contains basic overview of dart , not in detailed.
-</p>
-<h4>To use this repo in your local michine </h4>
-use 
-<code>
-  git clone 
-</code>
+# Dart Revisit
+
+In this repository, I’ve revisited some basic concepts of the Dart programming language.
+
+## 📄 Description
+
+This repository contains a collection of Dart files, each named according to the topic it covers — for example, `data_types.dart`. These files offer a basic overview of Dart concepts, primarily intended for quick reference or revision, rather than in-depth learning.
+
+## 🛠️ How to Use
+
+To use this repository on your local machine, run the following command in your terminal:
+
+```bash
+git clone https://github.com/rahulpal73071/Dart-revisit.git
